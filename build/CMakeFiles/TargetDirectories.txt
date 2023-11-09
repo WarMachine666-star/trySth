@@ -1,0 +1,6 @@
+/Users/wenxicheng/projects/trySth/build/CMakeFiles/Demo.dir
+/Users/wenxicheng/projects/trySth/build/CMakeFiles/edit_cache.dir
+/Users/wenxicheng/projects/trySth/build/CMakeFiles/rebuild_cache.dir
+/Users/wenxicheng/projects/trySth/build/src/math/CMakeFiles/my_math.dir
+/Users/wenxicheng/projects/trySth/build/src/math/CMakeFiles/edit_cache.dir
+/Users/wenxicheng/projects/trySth/build/src/math/CMakeFiles/rebuild_cache.dir
